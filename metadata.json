@@ -1,0 +1,6 @@
+{
+  "name": "BACC Révision",
+  "description": "Plateforme d'entraînement et révision pour le baccalauréat de Madagascar avec Tuteur IA, leçons et anciens sujets officiels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
